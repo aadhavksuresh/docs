@@ -8,4 +8,4 @@
  * If you are viewing a saved paste, having a small title above the text would help.
  * If a paste is forked, have a "forked from <link>" to show it's not the original version just like GitHub does.
  * Add a tiny bit more info in the Info footer!
-
+ * Everytime when some-one open website show a simple pop-up telling what this website does in few lines and also have a check-box saying "Don't Show Again" which would help regular users from getting the pop-up.
