@@ -12,4 +12,6 @@
  * Add markdown support.
  * Change the colour of the background or add themes.
  * Everytime when some-one open website show a simple pop-up telling what this website does in few lines and also have a check-box saying "Don't Show Again" which would help regular users from getting the pop-up.
-
+* Make UI more responsive.
+* A navbar will be great and all the buttons on it looks good.
+* A dashboard for a user can be created where she/he/they can save his/her/their snippets.
