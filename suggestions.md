@@ -11,3 +11,5 @@
  * Add tabs(with names that can be renamed according to user) so that a user can adjust his pasted text according to his needs and not go searching. 
  * Add markdown support.
  * Change the colour of the background or add themes.
+ * Everytime when some-one open website show a simple pop-up telling what this website does in few lines and also have a check-box saying "Don't Show Again" which would help regular users from getting the pop-up.
+
