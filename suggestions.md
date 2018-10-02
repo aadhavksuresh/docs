@@ -14,6 +14,7 @@
  * The Matrix Movie colour theme would look great! The Matrix Code Green palette has 4 colors which are `Vampire Black` (#0D0208), `Dark Green` (#003B00), `Islamic Green` (#008F11) and `Malachite` (#00FF41).
  * Everytime someone opens the website, show a simple pop-up telling what the website does in a few lines and also have a check-box saying "Don't Show Again" which would help regular users from getting the pop-up.
  * Everytime when some-one open website show a simple pop-up telling what this website does in few lines and also have a check-box saying "Don't Show Again" which would help regular users from getting the pop-up.
+ * Add option to users customize fonts, sizes, colors, background.
  * Export/share to Google Drive/Dropbox
  * Add area for comments about your website.
  * Make UI more responsive.
