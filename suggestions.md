@@ -21,3 +21,4 @@
  * A navbar will be great and all the buttons on it looks good.
  * A dashboard for a user can be created where she/he/they can save his/her/their snippets.
  * Allow the viewer of a paste to apply syntax highlighting for various common languages. This could be a pulldown, including "none", applied without the paster having to specifiy a language at paste.
+* Correct the writing limit of the text, so that the text does not disappear behind the menu
